@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-
+// awesome
     char *s="GOODLUCK";
     for(int i=strlen(s)-1; i>=0; i--) {
         for (int j=0; j<=i; j++)
